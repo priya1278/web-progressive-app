@@ -1,0 +1,15 @@
+<html<!DOCTYPE html>
+<!-- saved from url=(0034)http://127.0.0.1:8887/dynamic.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>:resume builder</title>
+	<link rel="stylesheet" type="text/css" href="./_resume builder_files/style1.css">
+</head>
+<body>
+	<div class="main1">
+		<div class="left"><img src="./_resume builder_files/Lighthouse.jpg"><h2>priya</h2><h2>1278</h2><h2>guntur</h2></div>
+		<div class="right"><h1>Career Objective</h1><h1></h1><hr><p>i seek a position where i can explore my talents for the benefits of organisation</p><h2>Educational details</h2><table border="1"><tbody><tr><td>s.no</td><td>degree</td><td>institute</td><td>per</td><td>yop</td></tr><tr><td>1.</td><td>Btech</td><td>vignan nirula</td><td>80%</td><td>2021</td></tr><tr><td>2.</td><td>intermediate</td><td>sri chaitanya</td><td>92%</td><td>2017</td></tr><tr><td>3.</td><td>ssc</td><td>BHASHYAM</td><td>83%</td><td>2015</td></tr></tbody></table></div>
+	</div>
+
+
+<script type="text/javascript" src="./_resume builder_files/dynamic.js.download"></script>
+</body></html>
